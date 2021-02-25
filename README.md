@@ -64,4 +64,8 @@ void loop() {
   delay(500);
 }
 ```
+## Bíll 
 
+[Hér er hann](https://raw.githubusercontent.com/ulfurhrafn/VESM1VS05AU-H-pverkefni/main/b%C3%ADll.jpg)
+
+Hann hefur 2 mótora 1 til að fara framm og til baka og annar til að stíra.
