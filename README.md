@@ -9,7 +9,7 @@
 # Steppermotor tilraun
 ~~~
 
-![Stepper vélinn í fullu gangi](https://github.com/ulfurhrafn/VESM1VS05AU-H-pverkefni/blob/main/h%C3%B3pverkefni-%C3%9A-A-R.mp4)
+![Stepper vélinn í fullu gangi](https://youtu.be/R_tjakD9VJ0)
 
 
 ![Stepper mynd](https://raw.githubusercontent.com/ulfurhrafn/VESM1VS05AU-H-pverkefni/main/steppervel.jpg)
